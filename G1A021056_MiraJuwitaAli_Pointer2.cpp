@@ -14,7 +14,7 @@ int main ()
 	cout <<"Nilai b = " <<b<< endl;
 	
 	p1 = &b;
-	cout<<"p1 = &b"<<endl;
+	cout<<"\np1 = &b"<<endl;
 	cout<<"Nilai &b = "<<&b<< endl;
 	cout<<"Nilai p1 = "<<p1<< endl;
     
@@ -25,7 +25,7 @@ int main ()
     
 	c = 27;
 	cout<<"\nc = 27"<<endl;
-	cout <<"nNilai c = " <<c<< endl;
+	cout <<"Nilai c = " <<c<< endl;
 	
 	p1 = &c;
 	cout<<"\np1 = &c"<<endl;
