@@ -34,7 +34,7 @@ int main ()
 
 	a = *p2;
 	cout<<"\na = *p2"<< endl;
-	cout<<"Nilai *p2 = "<<*p1<< endl;
+	cout<<"Nilai *p2 = "<<*p2<< endl;
 	cout<<"Nilai a = "<<a<< endl;
 	
 	b = 6;
